@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const images = [...allImages];
     const galleryContainer = document.getElementById('imageContainer');
     const pagination = document.querySelector('.pagination');
-    const itemsPerPage = 8;
+    const itemsPerPage = 6;
     let currentPage = 1;
     const searchInput = document.getElementById('searchInput');
   

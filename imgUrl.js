@@ -29,10 +29,10 @@ const allImages = [
     },
     {
       url:'https://c4.wallpaperflare.com/wallpaper/534/826/507/lucy-edgerunners-cyberpunk-edgerunners-anime-anime-girls-cyberpunk-hd-wallpaper-preview.jpg',
-      description:'lucy (edgerunners), Cyberpunk: edgerunners, anime, anime girls',
+      description:'Violet Evergarden, anime girls, blonde, blue eyes',
     },
     {
-      url:'https://c4.wallpaperflare.com/wallpaper/654/455/737/illustration-artwork-digital-art-fan-art-drawing-hd-wallpaper-preview.jpg',
+      url:'https://c4.wallpaperflare.com/wallpaper/277/703/583/violet-evergarden-anime-girls-anime-blonde-wallpaper-preview.jpg',
       description:'illustration, artwork, digital art, fan art, drawing, fantasy art',
     },
     {
